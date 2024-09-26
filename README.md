@@ -41,5 +41,5 @@ Follow the on-screen prompts to join channels and scrape messages.
 
 Please use this tool responsibly and in accordance with Telegram's terms of service.
 ## Demo
-![Demo GIF](https://raw.githubusercontent.com/syndress1/telegram-scraper-cli/main/demo.gif)
+![Demo GIF](https://github.com/syndress1/telegram-scraper-cli/blob/main/demo.gif)
 
