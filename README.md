@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ## Usage
 
 Run the script:
-python telegram_scraper_cli.py
+python telegram-scraper-cli.py
 Follow the on-screen prompts to join channels and scrape messages.
 
 ## Disclaimer
